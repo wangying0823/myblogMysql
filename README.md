@@ -1,3 +1,15 @@
+开发环境
+
+nodejs v8.1.0
+
+koa v2.3.0
+
+mysql v5.7.0
+
+mysql下载地址 https://dev.mysql.com/downloads/
+
+mysql数据库工具Nacicat premium下载地址 http://www.formysql.com/xiazai.html
+
 ##目录结构
 
   config 存放默认文件
